@@ -261,6 +261,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux, MacOs and Windows based on Command line Interface.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy) _(label: status: easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+- [Snake Game](https://github.com/Cryptotion/Snake---Game) _(label: status: easy/beginner)_ <br> A simple Snake game. 
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit) _(label: Low-hanging fruit)_ <br> Pythonic remote execution and deployment.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue) _(label: good first issue)_ <br> Jupyter interactive notebook.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue) _(label: good first issue)_ <br> Powerful open source group chat.
@@ -285,6 +286,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Pytorch](https://github.com/pytorch/pytorch/labels/good%20first%20issue) _(label: Good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 - [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn/labels/good%20first%20issue) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
+
 
 ## Ruby
 
